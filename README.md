@@ -1,2 +1,2 @@
-
+[![Python application](https://github.com/Raheesakk/Adding-a-Status-Badge/actions/workflows/pylint_pytest.yml/badge.svg)](https://github.com/Raheesakk/Adding-a-Status-Badge/actions/workflows/pylint_pytest.yml)
 
